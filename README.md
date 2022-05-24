@@ -8,7 +8,7 @@ Professor: Marcos
 
 ## Links para os exercícios:
 
-[AULA 01 - NOME](https://link-da-documentação)
+[AULA 01 - NOME](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2001%20-%20NOME.ALG)
 
 [AULA 02 - NOME E ENDEREÇO](https://link-da-documentação)
 
