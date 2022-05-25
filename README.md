@@ -1,6 +1,7 @@
-# beacademy-devstart-logicadeprogramacao
+# LÓGICA DE PROGRAMAÇÃO
 
-Repositório para envio dos exercícios de logica de programação
+
+Exercícios do curso de logica de programação
 realizados pela Be.Academy em parceria com o programa DevStart da Paylivre.
 
 Professor: Marcos
@@ -42,6 +43,33 @@ Professor: Marcos
 
 [AULA 09 - TABUADA COM ENQUANTO](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
 
+[AULA 10 - CONTADOR DE IDADE](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 10 - DE 1 A 10 COM REPITA ATE](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 10 - DEPOSITOS](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 10 - IMPRIMA REPETE INTERROMPE](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 10 - LOGIN E SENHA COM REPETICAO E INTERROMPA](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 10 - SOMA DOS 100 PRIMEIROS NUMEROS INTEIROS](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 11 - BOLETIM COM VETOR](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 11 - CADASTRO CLIENTES](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 11 - EXEMPLO COM 2 VETORES](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 11 - LISTA DE PREÇOS](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 11 - VETORES](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 12 - EXEMPLO DE MATRIZ](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 12 - MATRIZ QUADRADA](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
+
+[AULA 12 - PLANILHA](https://github.com/Bethania-Freitas/beacademy-devstart-logicadeprogramacao/blob/main/AULA%2009%20-%20TABUADA%20COM%20ENQUANTO.ALG)
 
 
 
